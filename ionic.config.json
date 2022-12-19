@@ -1,0 +1,7 @@
+{
+  "name": "Proyecto-Airam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
